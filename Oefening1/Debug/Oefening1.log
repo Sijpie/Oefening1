@@ -1,0 +1,7 @@
+﻿  Student.cpp
+d:\hku\dev\oop\oefening1\oefening1\student.cpp(13): error C3867: 'Persoon::printmessage': non-standard syntax; use '&' to create a pointer to member
+  Persoon.cpp
+  Oefening1.cpp
+  Docent.cpp
+d:\hku\dev\oop\oefening1\oefening1\docent.cpp(14): error C3867: 'Persoon::printmessage': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
